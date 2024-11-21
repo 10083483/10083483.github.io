@@ -42,5 +42,5 @@ This blog is my space to:
 
 ## Skills & Interests
 
-- **Tech Stack**: Python, JavaScript, TensorFlow, OpenCV, Flask, Django, and more.
+- **Tech Stack**: Python, TensorFlow, OpenCV, Flask, and more.
 - **Focus Areas**: IoT, AI, and building prototypes.
