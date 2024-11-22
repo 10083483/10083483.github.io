@@ -5,7 +5,7 @@ categories: Python, PyTorch
 tags: PyTorch Python Error
 ---
 
-# 에러 메시지:
+## 에러 메시지:
 
 ```bash
 "Illegal instruction" error
@@ -40,5 +40,5 @@ python3 setup.py install
 ```
 ---
 
-### 오류 원인:  
+## 오류 원인:  
 ARM64 아키텍처에서 PyTorch의 사전 빌드 바이너리가 호환되지 않아 **Illegal Instruction** 오류가 발생했습니다. 소스에서 직접 빌드하면 이 문제를 해결할 수 있습니다.
