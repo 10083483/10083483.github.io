@@ -1,8 +1,8 @@
 ---
 title: "ONNX DLL Load Error 해결 방법"
 date: 2024-08-12
-categories: [Python, ONNX]
-tags: [ONNX, Python, 오류]
+categories: Python, ONNX
+tags: ONNX, Python, Error
 ---
 
 에러 메시지:
