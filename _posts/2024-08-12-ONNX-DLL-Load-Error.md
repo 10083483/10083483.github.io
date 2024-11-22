@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ONNX DLL Load Error 해결 방법"
 date: 2024-08-12
 categories: [Python, ONNX]
