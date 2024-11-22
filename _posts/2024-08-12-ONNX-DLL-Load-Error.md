@@ -12,7 +12,7 @@ ONNX: export failure  16.0s: DLL load failed while importing onnx_cpp2py_export:
 ```
 ***
 
-해결 방법:  특정 ONNX 버전을 설치하는 것이 도움이 됩니다
+해결 방법:   특정 ONNX 버전을 설치하는 것이 도움이 됩니다
 ```bash
 pip install onnx==1.12.0
 ```
