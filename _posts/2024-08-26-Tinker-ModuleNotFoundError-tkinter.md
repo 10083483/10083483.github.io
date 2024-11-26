@@ -1,6 +1,6 @@
 ---
 title: "ModuleNotFoundError: No module named '_tkinter' 해결 방법"
-date: 2024-08-19
+date: 2024-08-26
 categories: Python, Tkinter, TinkerEdgeR
 tags: Python Error Tkinter TinkerEdgeR
 ---
@@ -32,4 +32,5 @@ ModuleNotFoundError: No module named '_tkinter'
 ---
 
 ## 오류 원인:  
+원래 tkinter는 파이썬괘 함께 설치되는 라이브러리 이지만 
 Tinker Edge R 환경에서 tkinter 모듈이 제대로 설치되지 않았거나, 해당 모듈의 의존성이 손상되어 Python에서 '_tkinter' 모듈을 찾을 수 없었던 문제입니다.

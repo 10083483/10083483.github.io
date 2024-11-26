@@ -1,5 +1,5 @@
 ---
-title: "ModuleNotFoundError: No module named 'cv2' 해결 방법"
+title: "OpenCV가 설치되어 있을떄 ModuleNotFoundError: No module named 'cv2' 해결 방법"
 date: 2024-08-26
 categories: Python, OpenCV, TinkerEdgeR
 tags: Python Error OpenCV TinkerEdgeR
