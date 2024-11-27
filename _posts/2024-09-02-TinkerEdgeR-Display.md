@@ -1,7 +1,7 @@
 ---
 title: "팅커 보드 GUI 없이 검은 화면 해결 방법"
 date: 2024-09-02
-categories: TinkerEdgeR, Display
+categories: TinkerEdgeR-Display
 tags: TinkerEdgeR Error Display GUI
 ---
 

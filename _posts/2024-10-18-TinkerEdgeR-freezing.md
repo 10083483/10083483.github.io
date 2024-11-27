@@ -1,9 +1,8 @@
-
 ---
 title: "Rockchip SoC 기반 OpenCV와 TensorFlow Lite 환경에서 발생한 프로그램 멈춤 문제 해결기"
 date: 2024-10-18
 categories: OpenCV TensorFlow_Lite GUI
-tags: Rockchip Pygame Tkinter GPU 하드웨어가속 SegmentationFault TinkerEdgeR
+tags: Rockchip Pygame Tkinter GPU 하드웨어가속 SegmentationFault TinkerEdgeR Freezing
 ---
 
 # Rockchip SoC 기반 OpenCV와 TensorFlow Lite 환경에서 발생한 프로그램 멈춤 문제 해결기
